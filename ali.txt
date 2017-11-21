@@ -3,4 +3,10 @@
 //linux 操作命令
 	rm -rf /usr/local/java/tomcat_one 删除文件件 ;
 
+	 cd /usr/local/java/tomcat/apache-tomcat-8.5.23/bin 找到tomcat的安装文件./shutdownsh 开启或者./startup.sh开启服务
+
+	 ls 列举当前目录的所有文件
+
+
+
 
